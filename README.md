@@ -1,6 +1,6 @@
 # VideoGameRevShareAgreementTemplate
 
-This is community exercise to create a contract template for the cases where a video game project team is joining in a Revenue Share Agreement basics.
+This is community exercise to create a contract/agreement template for the cases where a video game project team is joining in a Revenue Share Agreement basics.
 
 The first version of this document has been created [thanks to the assistance of ChatGPT](https://chatgpt.com/share/f407b236-98f1-4f61-b610-8436d3537934).
 
@@ -9,6 +9,10 @@ The first version of this document has been created [thanks to the assistance of
 The actual version of the contract is stored on this same repo:
 
 - [video_game_rev_share_contract_template.md](video_game_rev_share_contract_template.md)
+
+## The users and Purpose of the Template
+
+This template is designed for indie development teams who may have limited experience in legal matters, which is often the case. The language used in the document aims to be accessible and easy to understand, even for those who are not legal experts, while still being comprehensive enough to meet the needs of legal professionals.
 
 ## How to collaborate
 
