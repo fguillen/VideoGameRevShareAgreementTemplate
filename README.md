@@ -13,3 +13,19 @@ The actual version of the contract is stored on this same repo:
 ## How to collaborate
 
 Send a Pull Request with your suggestions
+
+## Disclaimer of Liability
+
+This document is made for amateur, hobbist and enthusiast contributors. It comes without any assurance that it will work on your case or any other. The authors decline any responsibilty on the cosequencies of using it.
+
+The information provided in this document is for general informational purposes only. The authors make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the document or the information, products, services, or related graphics contained in the document for any purpose.
+
+In no event will the authors be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the use of this document. Any reliance you place on such information is therefore strictly at your own risk.
+
+The authors disclaim all responsibility and liability for any damages or losses (including, without limitation, financial loss, damages for loss in business projects, loss of profits, or other consequential losses) arising in contract, tort, or otherwise from the use of or inability to use this document, or any material contained in it, or from any action or decision taken as a result of using this document.
+
+## License
+
+CC0 1.0 Universal (CC0 1.0)
+
+- [LICENSE.md](LICENSE.md)
