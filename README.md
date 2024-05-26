@@ -1,4 +1,4 @@
-# VideoGameRevShareContractTemplate
+# VideoGameRevShareAgreementTemplate
 
 This is community exercise to create a contract template for the cases where a video game project team is joining in a Revenue Share Agreement basics.
 
